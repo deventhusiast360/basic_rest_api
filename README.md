@@ -1,6 +1,6 @@
 # Basic REST API
 
-This repository contains a basic REST API implementation built using [Express.js](https://expressjs.com/). The API provides endpoints for performing CRUD operations (Create, Read, Update, Delete) on a resource.
+This repository contains a basic REST API implementation built using [Express.js](https://expressjs.com/) and [Prisma](https://www.prisma.io/). The API provides endpoints for performing CRUD operations (Create, Read, Update, Delete) on a resource.
 
 ## Getting Started
 
